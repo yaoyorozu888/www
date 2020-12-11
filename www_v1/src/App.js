@@ -7,6 +7,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
+	  //以下に文字列を追加
+          Hello React !!! （編集しました）Edit <code>src/App.js</code> and save to reload.
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a

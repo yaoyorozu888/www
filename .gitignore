@@ -21,3 +21,7 @@ www_v1/.env.production.local
 www_v1/npm-debug.log*
 www_v1/yarn-debug.log*
 www_v1/yarn-error.log*
+
+# cache
+www_v1/.eslintcache
+
